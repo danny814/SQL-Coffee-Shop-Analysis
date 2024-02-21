@@ -12,3 +12,8 @@ A TSQL analysis of a fictitious, New York based coffee chain. We'll use six mont
 ## Data Used
 One dataset is used for this project:
 * __maven_roasters.csv__: Six months of transactional data from three neightborhoods in New York.
+
+## Table Schema
+
+![Screenshot 2024-02-20 160312](https://github.com/danny814/SQL-Coffee-Shop-Analysis/assets/139296999/c51dc976-e50a-46b2-b5cd-fc426b86d93f)
+
